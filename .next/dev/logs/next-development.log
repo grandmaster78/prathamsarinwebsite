@@ -1,0 +1,5 @@
+[00:00:01.649] Server  LOG     ✓ Ready in 1449ms
+[00:00:10.715] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.893] Browser DEBUG   Injecting file system access api patch
+[00:00:10.893] Browser DEBUG   Injecting element creation patch
+[00:00:10.893] Browser DEBUG   First element creation parent found
